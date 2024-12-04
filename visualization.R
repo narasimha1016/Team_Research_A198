@@ -1,7 +1,7 @@
 # Load library
 library(tidyverse)
 
-# Load dataset
+# Loading dataset
 rainfall_data <- read.csv("rainfall_india.csv")
 
 # Save plots to a PDF
